@@ -57,12 +57,12 @@ The dashboard includes dynamic slicers for Year/Quarter, Category, and Ship Mode
 ---
 
 ## Dataset
-
 The dataset used is the popular Sample Superstore dataset containing retail transaction data including:
 - Orders, Sales, Profit across 4 years (2014–2017)
 - 4 Regions: West, East, Central, South
 - 3 Categories: Technology, Furniture, Office Supplies
 - 3 Customer Segments: Consumer, Corporate, Home Office
+- **Source:** [Sample Superstore Dataset — Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ---
 
