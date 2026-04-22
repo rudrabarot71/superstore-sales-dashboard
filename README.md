@@ -48,19 +48,6 @@ The dashboard includes dynamic slicers for Year/Quarter, Category, and Ship Mode
 
 ---
 
-## Steps in the Project
-
-1. Business Requirement Gathering
-2. Data Walkthrough & Connection
-3. Data Cleaning & Quality Check
-4. Data Modeling
-5. DAX Calculations
-6. Dashboard Layout & Design
-7. Charts Development and Formatting
-8. Insights Generation
-
----
-
 ## Tools & Technologies
 
 - Power BI Desktop — Dashboard development and visualization
